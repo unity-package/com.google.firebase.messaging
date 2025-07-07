@@ -1,12 +1,12 @@
 ## How To Install
 ### Install by add directly in `manifest.json` in folder `Packages/manifest.json`
-- for version `12.9.0`
+- for version `12.10.1`
 ```json
-"com.google.firebase.messaging" : "https://github.com/RageAgainstThePixel/com.google.firebase.messaging.git#12.9.0"
+"com.google.firebase.messaging" : "https://github.com/RageAgainstThePixel/com.google.firebase.messaging.git#12.10.1"
 ```
-- dependency `com.google.firebase.app 12.9.0`, `external-dependency-manager 1.2.186`
+- dependency `com.google.firebase.app 12.10.1`, `external-dependency-manager 1.2.186`
 ```json
-"com.google.firebase.app" : "https://github.com/RageAgainstThePixel/com.google.firebase.app.git#12.9.0",
+"com.google.firebase.app" : "https://github.com/RageAgainstThePixel/com.google.firebase.app.git#12.10.1",
 "com.google.external-dependency-manager": "https://github.com/googlesamples/unity-jar-resolver.git?path=upm#v1.2.186",
 ```
 
