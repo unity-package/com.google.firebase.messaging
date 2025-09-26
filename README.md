@@ -1,3 +1,15 @@
+## How To Install
+### Install by add directly in `manifest.json` in folder `Packages/manifest.json`
+- for version `13.3.0`
+```json
+"com.google.firebase.messaging" : "https://github.com/RageAgainstThePixel/com.google.firebase.messaging.git#13.3.0"
+```
+- dependency `com.google.firebase.app 13.3.0`, `external-dependency-manager 1.2.186`
+```json
+"com.google.firebase.app" : "https://github.com/RageAgainstThePixel/com.google.firebase.app.git#13.3.0",
+"com.google.external-dependency-manager": "https://github.com/googlesamples/unity-jar-resolver.git?path=upm#v1.2.186",
+```
+
 Get Started with Firebase Cloud Messaging
 =========================================
 
